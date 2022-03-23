@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(43, 75, 93, 1);
+    
+}
+
+.navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF
+}
+
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF;
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: #008873;
+}
+

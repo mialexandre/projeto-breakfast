@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(43, 75, 93, 1);
+    
+}
+
+.navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF
+}
+
+table-responsive{
+    width: 100% !important;
+  }
+  
+  .table {
+      width: 60% !important; /*Importante manter o !important rs */
+      margin: auto;
+      background-color: #008873;
+      border-radius: 20px;
+      position: relative;
+  }
+  
+  .table-status {
+      margin-top: 20px;
+      margin-bottom: 20px !important;
+  }
+
+  h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF;
+    text-align: center;
+  }
+
+  thead{
+      font-family: Arial, Helvetica, sans-serif;
+      color: #FFFF;
+  }
+
+  tbody{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF;
+  }
